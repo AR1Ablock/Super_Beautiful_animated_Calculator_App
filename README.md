@@ -19,6 +19,8 @@ This is an intermediate level Beautiful Animated Calculator App Made Using VueJs
 
 * **it is also responsive for all screen size devices**.
 
+* **it has both touch buttons and hardware keyboard support**
+
 **deployed app link**.
 https://citric-adviser-328819.web.app/
 
